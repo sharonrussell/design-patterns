@@ -2,7 +2,7 @@
 
 namespace Composite
 {
-    public class Meerkat
+    public class Meerkat : IMeerkovan
     {
         public string Name { get; set; }
 
